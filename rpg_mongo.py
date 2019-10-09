@@ -1,5 +1,5 @@
-username = 'lotta01'
-password = 'Svrp2301!?'
+username = ***
+password = ***
 
 import pymongo
 
