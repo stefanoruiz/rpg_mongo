@@ -1,0 +1,254 @@
+[
+    {
+        "codename": "add_logentry",
+        "content_type_id": 1,
+        "id": 1,
+        "name": "Can add log entry"
+    },
+    {
+        "codename": "change_logentry",
+        "content_type_id": 1,
+        "id": 2,
+        "name": "Can change log entry"
+    },
+    {
+        "codename": "delete_logentry",
+        "content_type_id": 1,
+        "id": 3,
+        "name": "Can delete log entry"
+    },
+    {
+        "codename": "add_user",
+        "content_type_id": 2,
+        "id": 4,
+        "name": "Can add user"
+    },
+    {
+        "codename": "change_user",
+        "content_type_id": 2,
+        "id": 5,
+        "name": "Can change user"
+    },
+    {
+        "codename": "delete_user",
+        "content_type_id": 2,
+        "id": 6,
+        "name": "Can delete user"
+    },
+    {
+        "codename": "add_group",
+        "content_type_id": 3,
+        "id": 7,
+        "name": "Can add group"
+    },
+    {
+        "codename": "change_group",
+        "content_type_id": 3,
+        "id": 8,
+        "name": "Can change group"
+    },
+    {
+        "codename": "delete_group",
+        "content_type_id": 3,
+        "id": 9,
+        "name": "Can delete group"
+    },
+    {
+        "codename": "add_permission",
+        "content_type_id": 4,
+        "id": 10,
+        "name": "Can add permission"
+    },
+    {
+        "codename": "change_permission",
+        "content_type_id": 4,
+        "id": 11,
+        "name": "Can change permission"
+    },
+    {
+        "codename": "delete_permission",
+        "content_type_id": 4,
+        "id": 12,
+        "name": "Can delete permission"
+    },
+    {
+        "codename": "add_contenttype",
+        "content_type_id": 5,
+        "id": 13,
+        "name": "Can add content type"
+    },
+    {
+        "codename": "change_contenttype",
+        "content_type_id": 5,
+        "id": 14,
+        "name": "Can change content type"
+    },
+    {
+        "codename": "delete_contenttype",
+        "content_type_id": 5,
+        "id": 15,
+        "name": "Can delete content type"
+    },
+    {
+        "codename": "add_session",
+        "content_type_id": 6,
+        "id": 16,
+        "name": "Can add session"
+    },
+    {
+        "codename": "change_session",
+        "content_type_id": 6,
+        "id": 17,
+        "name": "Can change session"
+    },
+    {
+        "codename": "delete_session",
+        "content_type_id": 6,
+        "id": 18,
+        "name": "Can delete session"
+    },
+    {
+        "codename": "add_item",
+        "content_type_id": 7,
+        "id": 19,
+        "name": "Can add item"
+    },
+    {
+        "codename": "change_item",
+        "content_type_id": 7,
+        "id": 20,
+        "name": "Can change item"
+    },
+    {
+        "codename": "delete_item",
+        "content_type_id": 7,
+        "id": 21,
+        "name": "Can delete item"
+    },
+    {
+        "codename": "add_weapon",
+        "content_type_id": 8,
+        "id": 22,
+        "name": "Can add weapon"
+    },
+    {
+        "codename": "change_weapon",
+        "content_type_id": 8,
+        "id": 23,
+        "name": "Can change weapon"
+    },
+    {
+        "codename": "delete_weapon",
+        "content_type_id": 8,
+        "id": 24,
+        "name": "Can delete weapon"
+    },
+    {
+        "codename": "add_character",
+        "content_type_id": 9,
+        "id": 25,
+        "name": "Can add character"
+    },
+    {
+        "codename": "change_character",
+        "content_type_id": 9,
+        "id": 26,
+        "name": "Can change character"
+    },
+    {
+        "codename": "delete_character",
+        "content_type_id": 9,
+        "id": 27,
+        "name": "Can delete character"
+    },
+    {
+        "codename": "add_mage",
+        "content_type_id": 10,
+        "id": 28,
+        "name": "Can add mage"
+    },
+    {
+        "codename": "change_mage",
+        "content_type_id": 10,
+        "id": 29,
+        "name": "Can change mage"
+    },
+    {
+        "codename": "delete_mage",
+        "content_type_id": 10,
+        "id": 30,
+        "name": "Can delete mage"
+    },
+    {
+        "codename": "add_thief",
+        "content_type_id": 11,
+        "id": 31,
+        "name": "Can add thief"
+    },
+    {
+        "codename": "change_thief",
+        "content_type_id": 11,
+        "id": 32,
+        "name": "Can change thief"
+    },
+    {
+        "codename": "delete_thief",
+        "content_type_id": 11,
+        "id": 33,
+        "name": "Can delete thief"
+    },
+    {
+        "codename": "add_cleric",
+        "content_type_id": 12,
+        "id": 34,
+        "name": "Can add cleric"
+    },
+    {
+        "codename": "change_cleric",
+        "content_type_id": 12,
+        "id": 35,
+        "name": "Can change cleric"
+    },
+    {
+        "codename": "delete_cleric",
+        "content_type_id": 12,
+        "id": 36,
+        "name": "Can delete cleric"
+    },
+    {
+        "codename": "add_fighter",
+        "content_type_id": 13,
+        "id": 37,
+        "name": "Can add fighter"
+    },
+    {
+        "codename": "change_fighter",
+        "content_type_id": 13,
+        "id": 38,
+        "name": "Can change fighter"
+    },
+    {
+        "codename": "delete_fighter",
+        "content_type_id": 13,
+        "id": 39,
+        "name": "Can delete fighter"
+    },
+    {
+        "codename": "add_necromancer",
+        "content_type_id": 14,
+        "id": 40,
+        "name": "Can add necromancer"
+    },
+    {
+        "codename": "change_necromancer",
+        "content_type_id": 14,
+        "id": 41,
+        "name": "Can change necromancer"
+    },
+    {
+        "codename": "delete_necromancer",
+        "content_type_id": 14,
+        "id": 42,
+        "name": "Can delete necromancer"
+    }
+]

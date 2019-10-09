@@ -1,0 +1,72 @@
+[
+    {
+        "app_label": "admin",
+        "id": 1,
+        "model": "logentry"
+    },
+    {
+        "app_label": "auth",
+        "id": 2,
+        "model": "user"
+    },
+    {
+        "app_label": "auth",
+        "id": 3,
+        "model": "group"
+    },
+    {
+        "app_label": "auth",
+        "id": 4,
+        "model": "permission"
+    },
+    {
+        "app_label": "contenttypes",
+        "id": 5,
+        "model": "contenttype"
+    },
+    {
+        "app_label": "sessions",
+        "id": 6,
+        "model": "session"
+    },
+    {
+        "app_label": "armory",
+        "id": 7,
+        "model": "item"
+    },
+    {
+        "app_label": "armory",
+        "id": 8,
+        "model": "weapon"
+    },
+    {
+        "app_label": "charactercreator",
+        "id": 9,
+        "model": "character"
+    },
+    {
+        "app_label": "charactercreator",
+        "id": 10,
+        "model": "mage"
+    },
+    {
+        "app_label": "charactercreator",
+        "id": 11,
+        "model": "thief"
+    },
+    {
+        "app_label": "charactercreator",
+        "id": 12,
+        "model": "cleric"
+    },
+    {
+        "app_label": "charactercreator",
+        "id": 13,
+        "model": "fighter"
+    },
+    {
+        "app_label": "charactercreator",
+        "id": 14,
+        "model": "necromancer"
+    }
+]

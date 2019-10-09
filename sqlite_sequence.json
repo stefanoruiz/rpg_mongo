@@ -1,0 +1,34 @@
+[
+    {
+        "name": "django_migrations",
+        "seq": 17
+    },
+    {
+        "name": "django_admin_log",
+        "seq": 0
+    },
+    {
+        "name": "django_content_type",
+        "seq": 14
+    },
+    {
+        "name": "auth_permission",
+        "seq": 42
+    },
+    {
+        "name": "auth_user",
+        "seq": 0
+    },
+    {
+        "name": "charactercreator_character",
+        "seq": 302
+    },
+    {
+        "name": "armory_item",
+        "seq": 174
+    },
+    {
+        "name": "charactercreator_character_inventory",
+        "seq": 898
+    }
+]

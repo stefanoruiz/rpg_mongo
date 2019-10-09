@@ -1,0 +1,9 @@
+name,seq
+django_migrations,17
+django_admin_log,0
+django_content_type,14
+auth_permission,42
+auth_user,0
+charactercreator_character,302
+armory_item,174
+charactercreator_character_inventory,898
