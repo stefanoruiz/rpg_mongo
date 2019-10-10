@@ -3,7 +3,7 @@ password = ***
 
 import pymongo
 
-client = pymongo.MongoClient("mongodb://lotta01:Svrp2301!?@lotta3-shard-00-00-qnrwa.mongodb.net:27017,lotta3-shard-00-01-qnrwa.mongodb.net:27017,lotta3-shard-00-02-qnrwa.mongodb.net:27017/test?ssl=true&replicaSet=lotta3-shard-0&authSource=admin&retryWrites=true&w=majority")
+client = pymongo.MongoClient("mongodb://lotta01:<PASSWORD>@lotta3-shard-00-00-qnrwa.mongodb.net:27017,lotta3-shard-00-01-qnrwa.mongodb.net:27017,lotta3-shard-00-02-qnrwa.mongodb.net:27017/test?ssl=true&replicaSet=lotta3-shard-0&authSource=admin&retryWrites=true&w=majority")
 db = client.test
 
 armory_item = [
